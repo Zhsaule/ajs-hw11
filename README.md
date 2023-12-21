@@ -1,5 +1,6 @@
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 [![Build status](https://ci.appveyor.com/api/projects/status/414gbi2np6nq3wp0/branch/main?svg=true)](https://ci.appveyor.com/project/Zhsaule/ajs-hw11/branch/main)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
